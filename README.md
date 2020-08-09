@@ -40,7 +40,7 @@ Android：/android/[版本号]
 ## 第一种方法：购买VIP（赤裸裸的金钱捐助）
 打开云盘，选择扩容，购买容量包，切换到VIP选项卡。
 ## 第二种方法：爱发电（同上）
-https://afdian.net/@crabTech_
+https://afdian.net/@CrabTech_  (别忘了下划线_)
 ## 第三种方法：B站投喂电池
 @螃蟹谈科技
 或者直接通过链接重定向：https://redirect.crabhouse.top/ref=11228
